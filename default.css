@@ -154,7 +154,7 @@ hr {
 		color: #FFF;
 	}
 	
-	ul.contact li a:before
+	/* ul.contact li a:before
 	{
 		display: inline-block;
 		background: #3f3f3f;
@@ -169,7 +169,7 @@ hr {
 	ul.contact li a.icon-facebook:before { background: #39599F; }
 	ul.contact li a.icon-dribbble:before { background: #C4376B;	}
 	ul.contact li a.icon-tumblr:before { background: #31516A; }
-	ul.contact li a.icon-rss:before { background: #F2600B; }
+	ul.contact li a.icon-rss:before { background: #F2600B; } */
 
 
 /*********************************************************************************/
@@ -186,7 +186,7 @@ hr {
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: #16a085;
+		color: #4141A8;
 	}
 	
 	.title .byline
@@ -217,7 +217,7 @@ hr {
 
 .container2 {
 	width: 1400px;
-	height: 200px;
+	height: 600px;
 	/* margin: 10px auto; */
 	margin-top: 0px; 
 	margin-bottom: 10px;
@@ -342,6 +342,7 @@ hr {
 
 #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
+	font-weight:300
 }
 
 #menu .current_page_item a {
@@ -372,7 +373,7 @@ hr {
 	#sidebar
 	{
 		float: right;
-		width: 345px;
+		width: 375px;
 	}
 	
 	#sidebar .title h2
@@ -596,7 +597,7 @@ hr {
 	 h1{
 		text-align: center;
 		font-weight:700; 
-		color:rgba(27, 84,78)
+		color:#23636D;
 		
 	  }
 	  .abc
