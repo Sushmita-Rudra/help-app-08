@@ -16,3 +16,5 @@
 
 - [Denise Case](https://github.com/denisecase/pbl-lifeline)
 - [Template](https://Templated.co/)
+- Tables format in pricing guideline -Section 04 - Group 1.
+
